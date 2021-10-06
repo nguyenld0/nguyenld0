@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 👋 I'm *Lam*
+- 📫 How to reach me: *tweeter, ... *
+- 🌱 I’m currently learning: *Algorithms, Data Structures, Computer Vision, Deep Learning, Artificial Intelligent, Machine Learning, ...*
 <!--
 **ngld0/ngld0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
