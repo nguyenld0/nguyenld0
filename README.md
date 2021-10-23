@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 👋 I'm *Lam*
 - 👨‍🎓 Languages: C/C**, java, python, mathlab
-- 🏋 Sports: Riding, Running/jogging, Calisthenic (Street Work out)
+- 🌻 Hobby: Running/Jogging 🏃, Books 📚.
 - 👨‍💻️ I’m currently learning: *Algorithms, Data Structures, Computer Vision, Deep Learning, Artificial Intelligent, Machine Learning, ...*
-- 💌 How to reach me: ...
+- 💌 How to reach me: [STRAVA](https://www.strava.com/athletes/ngld), [TWITTER](https://twitter.com/ngld00), [LEETCODE](https://leetcode.com/ngld0/), [FACEBOOK](https://www.facebook.com/ngld0/).
 <!--
 **ngld0/ngld0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
