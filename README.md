@@ -3,7 +3,6 @@
 - 👨‍🎓 Languages: C/C**, java, python, matlab
 - 🌻 Hobby: Running/Jogging 🏃, Books 📚.
 - 👨‍💻️ Working: *Telecommunication, Networking, Software Developer (Coder)*
-- 💌 Reach me: nguyenld35@gmail.com
 - 🤷‍♀️ Quote: "Training to beat GOKU or at least KRILLIN"
 <!--
 **ngld0/ngld0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
