@@ -1,6 +1,6 @@
 # Hi there 👋
 - 👋 I am *Lam*
-- 👨‍🎓 Languages: C/C**, java, python, matlab
+- 👨‍🎓 Languages: C/C++, java, python, matlab
 - 🌻 Hobby:  🏃,  📚.
 - 👨‍💻️ Working: *Telecommunication, Networking, Software Developer (Coder)*
 - 🤷‍♀️ Quote: "If they can do it, hire them to do it for you"
