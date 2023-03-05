@@ -1,8 +1,8 @@
 # Hi there 👋
-- 👋 I am *Lam*
+- 👋 I am *Nguyen Lam*
 - 👨‍🎓 Languages: C/C++, java, python, matlab
 - 🌻 Hobby:  🏃,  📚.
-- 👨‍💻️ Working: *Telecommunication, Networking, Software Developer (Coder)*
+- 👨‍💻️ Experiences: *Telecommunication, Networking, Software Development (Coder)*
 - 🤷‍♀️ Quote: "If they can do it, hire them to do it for you"
 <!--
 **ngld0/ngld0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
